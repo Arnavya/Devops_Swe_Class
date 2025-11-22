@@ -2,7 +2,7 @@
 
 Lecture Title : Deep dive into Kubernetes ReplicatSet
 
-Lecture Date : 3rd Dec 2025 
+Lecture Date : 5th Dec 2025 
 
 ==============================================================
 
