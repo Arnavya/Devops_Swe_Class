@@ -2,7 +2,7 @@
 
 Lecture Title : Deep dive into Kubernetes Pods
 
-Lecture Date : 1st Dec 2025 (Monday)
+Lecture Date : 1st Dec 2025
 
 =========================================================
 
